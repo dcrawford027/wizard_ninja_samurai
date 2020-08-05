@@ -1,0 +1,12 @@
+/Users/dustincrawford/Documents/CodingDojo/csharp_stack/csharp/OOP/wizard_ninja_samurai/bin/Debug/netcoreapp3.1/wizard_ninja_samurai.deps.json
+/Users/dustincrawford/Documents/CodingDojo/csharp_stack/csharp/OOP/wizard_ninja_samurai/bin/Debug/netcoreapp3.1/wizard_ninja_samurai.runtimeconfig.json
+/Users/dustincrawford/Documents/CodingDojo/csharp_stack/csharp/OOP/wizard_ninja_samurai/bin/Debug/netcoreapp3.1/wizard_ninja_samurai.runtimeconfig.dev.json
+/Users/dustincrawford/Documents/CodingDojo/csharp_stack/csharp/OOP/wizard_ninja_samurai/bin/Debug/netcoreapp3.1/wizard_ninja_samurai.dll
+/Users/dustincrawford/Documents/CodingDojo/csharp_stack/csharp/OOP/wizard_ninja_samurai/bin/Debug/netcoreapp3.1/wizard_ninja_samurai.pdb
+/Users/dustincrawford/Documents/CodingDojo/csharp_stack/csharp/OOP/wizard_ninja_samurai/obj/Debug/netcoreapp3.1/wizard_ninja_samurai.csprojAssemblyReference.cache
+/Users/dustincrawford/Documents/CodingDojo/csharp_stack/csharp/OOP/wizard_ninja_samurai/obj/Debug/netcoreapp3.1/wizard_ninja_samurai.AssemblyInfoInputs.cache
+/Users/dustincrawford/Documents/CodingDojo/csharp_stack/csharp/OOP/wizard_ninja_samurai/obj/Debug/netcoreapp3.1/wizard_ninja_samurai.AssemblyInfo.cs
+/Users/dustincrawford/Documents/CodingDojo/csharp_stack/csharp/OOP/wizard_ninja_samurai/obj/Debug/netcoreapp3.1/wizard_ninja_samurai.csproj.CoreCompileInputs.cache
+/Users/dustincrawford/Documents/CodingDojo/csharp_stack/csharp/OOP/wizard_ninja_samurai/obj/Debug/netcoreapp3.1/wizard_ninja_samurai.dll
+/Users/dustincrawford/Documents/CodingDojo/csharp_stack/csharp/OOP/wizard_ninja_samurai/obj/Debug/netcoreapp3.1/wizard_ninja_samurai.pdb
+/Users/dustincrawford/Documents/CodingDojo/csharp_stack/csharp/OOP/wizard_ninja_samurai/obj/Debug/netcoreapp3.1/wizard_ninja_samurai.genruntimeconfig.cache
